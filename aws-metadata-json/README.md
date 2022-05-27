@@ -10,7 +10,7 @@
 - Install Python 3 and git on your instance 
     - `sudo yum install python3 git`
 - Clone this repository
-  - `git clone https://github.com/akshayvs91/challenge/aws-metadata-json-master`
+  - `git clone https://github.com/akshayvs91/challenge.git`
 - Install pipenv
   - `sudo pip3 install pipenv`
 - Open the repository on your instance
