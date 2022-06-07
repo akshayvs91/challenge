@@ -24,7 +24,6 @@
   - `cd aws-metadata-json/src`
 - Run whichever script you need:
   - `python3 get_metadata.py`
-  - `python3 get_key.py`
 
 ## How it works
 - It makes use of the http://<server-ip>/latest/meta-data link-local address. Instance metatada is provided at this link, but only when you visit it from a running instance.
