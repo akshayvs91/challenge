@@ -1,4 +1,5 @@
-from get_metadata import get_metadata
+from get_metadata 
+import get_metadata
 
 
 def gen_dict_extract(key, var):
