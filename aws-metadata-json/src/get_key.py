@@ -1,7 +1,7 @@
-from get_metadata import get_metadata
+from get_metadata 
+import get_metadata
 
 
-# https://stackoverflow.com/questions/9807634/find-all-occurrences-of-a-key-in-nested-python-dictionaries-and-lists
 def gen_dict_extract(key, var):
     if hasattr(var, 'items'):
         for k, v in var.items():
